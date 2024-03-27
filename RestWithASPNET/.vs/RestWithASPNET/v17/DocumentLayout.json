@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\.NET\\microservices-dotnet\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBC22DE-AF87-4CF5-AD9B-24317AA3C491}|RestWithASPNET\\RestWithASPNET.csproj|d:\\dev\\.net\\microservices-dotnet\\restwithaspnet\\restwithaspnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEBC22DE-AF87-4CF5-AD9B-24317AA3C491}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBC22DE-AF87-4CF5-AD9B-24317AA3C491}|RestWithASPNET\\RestWithASPNET.csproj|d:\\dev\\.net\\microservices-dotnet\\restwithaspnet\\restwithaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBC22DE-AF87-4CF5-AD9B-24317AA3C491}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBC22DE-AF87-4CF5-AD9B-24317AA3C491}|RestWithASPNET\\RestWithASPNET.csproj|d:\\dev\\.net\\microservices-dotnet\\restwithaspnet\\restwithaspnet\\restwithaspnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BEBC22DE-AF87-4CF5-AD9B-24317AA3C491}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\restwithaspnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\dev\\.NET\\microservices-dotnet\\RestWithASPNET\\RestWithASPNET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\dev\\.NET\\microservices-dotnet\\RestWithASPNET\\RestWithASPNET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNET\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T19:20:45.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestWithASPNET",
+              "DocumentMoniker": "D:\\dev\\.NET\\microservices-dotnet\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+              "RelativeDocumentMoniker": "RestWithASPNET\\RestWithASPNET.csproj",
+              "ToolTip": "D:\\dev\\.NET\\microservices-dotnet\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+              "RelativeToolTip": "RestWithASPNET\\RestWithASPNET.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T19:20:41.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\dev\\.NET\\microservices-dotnet\\RestWithASPNET\\RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\dev\\.NET\\microservices-dotnet\\RestWithASPNET\\RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:14:50.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
